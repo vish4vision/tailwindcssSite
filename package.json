@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-tutorial",
+  "version": "1.0.0",
+  "description": "This site made by Tailwind CSS Framework",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vish4vision/tailwindcssSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vish4vision/tailwindcssSite.git/issues"
+  },
+  "homepage": "https://github.com/vish4vision/tailwindcssSite.git#readme",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
